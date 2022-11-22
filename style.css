@@ -12,8 +12,8 @@ body {
 .size20{
     font-size: 20px;
 }
-.size10{
-    font-size:13px;
+.size15{
+    font-size:15px;
     font-weight: 600;
 }
 .width65{
@@ -788,6 +788,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    font-weight: 900;
 }
 
 .btn-atomic-tangerine:hover {
