@@ -1,3 +1,8 @@
+RedirectPermanent /La-Panthere/https://duzant9.github.io/La-Panthere/page2.html
+http://www.exemple.net/La-Panthere/page-de-destination.html
+
+
+
 <IfModule mod_expires.c>
 ExpiresActive On
 AddType application/vnd.ms-fontobject .eot 
