@@ -760,6 +760,12 @@ h4 {
     color: black!important;
 }
 
+.img-size{
+    width: 270px;
+    height: 270px;
+    margin: auto;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
